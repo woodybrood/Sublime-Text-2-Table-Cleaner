@@ -18,5 +18,5 @@
 
   // Default separator, all the recognised separators being replaced with this
   // one, before aligning the tables, acting as an intermediate.
-  "table_cleaner_default_separator": "|"
+  "table_cleaner_default_separator": "&"
 }
