@@ -14,5 +14,9 @@
 
   // Append a separator at the beginning and the end of each line when
   // importing a table from an external website.
-  "table_import_sorround_with_separator": true
+  "table_import_sorround_with_separator": true,
+
+  // Default separator, all the recognised separators being replaced with this
+  // one, before aligning the tables, acting as an intermediate.
+  "table_cleaner_default_separator": "|"
 }
